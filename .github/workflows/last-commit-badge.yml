@@ -77,7 +77,7 @@ jobs:
 
       - name: Commit and push badge(s) if changed
         run: |
-          if ! git diff --quiet -- assets/badges; then
+          if [ -n "$(git status --porcelain assets/badges)" ]; then
             DATE=${{ steps.commit.outputs.date }}
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
