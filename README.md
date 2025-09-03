@@ -6,7 +6,7 @@
 </p>
 
 [![license](https://img.shields.io/badge/license-MIT-indianred.svg?style=flat-square&logo=spdx&logoColor=white)](./LICENSE.md)
-![markdown](https://img.shields.io/badge/docs-Markdown-F7F4ED.svg?style=flat-square&logo=markdown&logoColor=white)
+[![markdown](https://img.shields.io/badge/docs-Markdown-F7F4ED.svg?style=flat-square&logo=markdown&logoColor=white)]()
 [![last-commit](https://github.com/bigdirekt/software-development-training/raw/badges/assets/badges/last-commit.svg)](https://github.com/bigdirekt/software-development-training/commits/main)
 [![contributors](https://github.com/bigdirekt/software-development-training/raw/badges/assets/badges/contributors.svg)](https://github.com/bigdirekt/software-development-training/graphs/contributors)
 
