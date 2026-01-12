@@ -16,7 +16,7 @@
 ![](./grundlagen-slides/slide-04.JPG)
 
 > [!TIP]
-> Verwendung von Datenbanken im Jahr 2025 ist [hier](https://survey.stackoverflow.co/2025/technology/#1-programming-scripting-and-markup-languages) zu finden.
+> Verwendung von Programmiersprachen im Jahr 2025 ist [hier](https://survey.stackoverflow.co/2025/technology/#1-programming-scripting-and-markup-languages) zu finden.
 
 <br>
 
@@ -33,7 +33,7 @@
 ![](./grundlagen-slides/slide-08.JPG)
 
 > [!TIP]
-> Verwendung von Datenbanken im Jahr 2025 ist [hier](https://survey.stackoverflow.co/2025/technology/#1-dev-id-es) zu finden.
+> Verwendung von IDEs im Jahr 2025 ist [hier](https://survey.stackoverflow.co/2025/technology/#1-dev-id-es) zu finden.
 
 <br>
 
