@@ -14,5 +14,5 @@ WebEx Meeting (siehe Termineinladung)
 | 12:45 - 14:15 (90min) | Schulung                    |
 | 14:15 - 14:30 (15min) | Pause                       |
 |                       |                             |
-| 14:30 - 15:30 (60min) | Abschluss, Fragen, Feedback|
+| 14:30 - 15:30 (60min) | Abschluss, Fragen, Feedback |
 |                       |                             |
