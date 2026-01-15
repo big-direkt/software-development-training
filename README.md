@@ -54,6 +54,7 @@ Dieses Repository dient der Azubi-Ausbildung für den Lehrplanteilbereich Softwa
 | 🌿&nbsp;[Versionskontrolle]          |                                                        |        | 👨‍🏫   | (👨‍🚒)      |        |       | (👨‍🚒)    | 15.01.2026<br>ca. **5h**   |
 |                                      | [Git Idee]                                             |        |       |           |        |       |         |                          |
 |                                      | [GitHub], [(Exkurs Markdown)]                          |        |       |           |        |       |         |                          |
+|                                      | [Git Praxis Teil1], [Git Praxis Teil2]                 |        |       |           |        |       |         |                          |
 | 🔗&nbsp;[Softwareökosystem]          |                                                        |        | 👨‍🏫   | (👨‍🚒)      |        |       | (👨‍🚒)    | 16.01.2026<br>ca. **7h**   |
 |                                      | GitHub/GitLab als Plattformen                          |        |       |           |        |       |         |                          |
 |                                      | Framework-Dokumentationen und Referenzen               |        |       |           |        |       |         |                          |
@@ -134,6 +135,8 @@ Veröffentlicht unter der MIT-Lizenz. Siehe [LICENSE] für weitere Informationen
   [Git Idee]:                       ./docs/version-control/git-idea.md
   [GitHub]:                         ./docs/version-control/github.md
   [(Exkurs Markdown)]:              ./docs/version-control/markdown.md
+  [Git Praxis Teil1]:               ./docs/version-control/version-control.md#5-praxis-git-basics-lokal
+  [Git Praxis Teil2]:               ./docs/version-control/version-control.md#6-praxis-git--und-github-basics-forks-und-branches
 [Softwareökosystem]:                ./docs/software-ecosystem/software-ecosystem.md
 [Sprachen & Anwendungsfälle]:       ./docs/languages-use-cases/languages-use-cases.md
 
