@@ -41,31 +41,31 @@ Dieses Repository dient der Azubi-Ausbildung für den Lehrplanteilbereich Softwa
 > 👨‍🏫 Tutor(en) für das Themengebiet<br>
 > (👨‍🚒) Vertretender Tutor für das Themengebiet
 
-| Rubrik                               | Inhalt                                                 | Patryk | Sven  | Sebastian | Sascha | Neo   | Maurice | Datum/Zeit               |
-| ---                                  | ---                                                    | :---:  | :---: | :---:     | :---:  | :---: | :---:   | :---:                    |
-| 👋&nbsp;[Kick-off]                   | [Kennenlernen], Agenda vorstellen                      | (👨‍🚒)  | 👨‍🏫    |           | 👨‍🏫     |       |         | 12.01.2026<br>ca. **0,5h** |
-| 🧱&nbsp;[Grundlagen]                 |                                                        |        | 👨‍🏫   |           | 👨‍🏫     |       | (👨‍🚒)    | 12.01.2026<br>ca. **6h**   |
-|                                      | [Gängige Programmiersprachen], [Programmierparadigmen] |        |       |           |        |       |         |                          |
-|                                      | [IDEs & Entwicklungsumgebungen], [Hello World]         |        |       |           |        |       |         |                          |
-|                                      | [Variablen & Datentypen], [Operatoren], [Bedingungen]  |        |       |           |        |       |         |                          |
-|                                      | [Schleifen], [Algorithmen]                             |        |       |           |        |       |         |                          |
-|                                      | [Datenbanken und SQL]                                  |        |       |           |        |       |         |                          |
-|                                      | [Frontend & Backend]                                   |        |       |           |        |       |         |                          |
+| Rubrik                               | Inhalt                                                 | Patryk | Sven  | Sebastian | Sascha | Neo   | Maurice | Datum/Zeit                 |
+| ---                                  | ---                                                    | :---:  | :---: | :---:     | :---:  | :---: | :---:   | :---:                      |
+| 👋&nbsp;[Kick-off]                   | [Kennenlernen], Agenda vorstellen                      | (👨‍🚒)   | 👨‍🏫   |           | 👨‍🏫     |       |         | 12.01.2026<br>ca. **0,5h** |
+| 🧱&nbsp;[Grundlagen]                 |                                                        |        | 👨‍🏫    |           | 👨‍🏫    |       | (👨‍🚒)    | 12.01.2026<br>ca. **6h**   |
+|                                      | [Gängige Programmiersprachen], [Programmierparadigmen] |        |       |           |        |       |         |                            |
+|                                      | [IDEs & Entwicklungsumgebungen], [Hello World]         |        |       |           |        |       |         |                            |
+|                                      | [Variablen & Datentypen], [Operatoren], [Bedingungen]  |        |       |           |        |       |         |                            |
+|                                      | [Schleifen], [Algorithmen]                             |        |       |           |        |       |         |                            |
+|                                      | [Datenbanken und SQL]                                  |        |       |           |        |       |         |                            |
+|                                      | [Frontend & Backend]                                   |        |       |           |        |       |         |                            |
 | 🌿&nbsp;[Versionskontrolle]          |                                                        |        | 👨‍🏫   | (👨‍🚒)      |        |       | (👨‍🚒)    | 15.01.2026<br>ca. **5h**   |
-|                                      | [Git Idee]                                             |        |       |           |        |       |         |                          |
-|                                      | [GitHub], [(Exkurs Markdown)]                          |        |       |           |        |       |         |                          |
-|                                      | [Git Praxis Teil1], [Git Praxis Teil2]                 |        |       |           |        |       |         |                          |
-| 🔗&nbsp;[Softwareökosystem]          |                                                        |        | 👨‍🏫   | (👨‍🚒)      |        |       | (👨‍🚒)    | 16.01.2026<br>ca. **7h**   |
-|                                      | GitHub/GitLab als Plattformen                          |        |       |           |        |       |         |                          |
-|                                      | Framework-Dokumentationen und Referenzen               |        |       |           |        |       |         |                          |
-|                                      | Lizenzen (Open Source != Free)                         |        |       |           |        |       |         |                          |
-|                                      | Laufzeitumgebungen (Node.js, .NET CLR, JVM)            |        |       |           |        |       |         |                          |
-|                                      | APIs/Schnittstellen                                    |        |       |           |        |       |         |                          |
-|                                      | Einsatz von KI (als Unterstützung, kein vibe coding)   |        |       |           |        |       |         |                          |
+|                                      | [Git Idee]                                             |        |       |           |        |       |         |                            |
+|                                      | [GitHub], [(Exkurs Markdown)]                          |        |       |           |        |       |         |                            |
+|                                      | [Git Praxis Teil1], [Git Praxis Teil2]                 |        |       |           |        |       |         |                            |
+| 🔗&nbsp;[Softwareökosystem]          |                                                        |        | 👨‍🏫   | (👨‍🚒)      |        |       | (👨‍🚒)    | 16.01.2026<br>ca. **5h**   |
+|                                      | GitHub/GitLab als Plattformen                          |        |       |           |        |       |         |                            |
+|                                      | Framework-Dokumentationen und Referenzen               |        |       |           |        |       |         |                            |
+|                                      | Lizenzen (Open Source != Free)                         |        |       |           |        |       |         |                            |
+|                                      | Laufzeitumgebungen (Node.js, .NET CLR, JVM)            |        |       |           |        |       |         |                            |
+|                                      | APIs/Schnittstellen                                    |        |       |           |        |       |         |                            |
+|                                      | Einsatz von KI (als Unterstützung, kein vibe coding)   |        |       |           |        |       |         |                            |
 | 🌐&nbsp;[Sprachen & Anwendungsfälle]  |                                                        |        |       |           |        |       |         | | ca. **13h**              |
-|                                      | PowerShell- und Shell-Scripting (Automatisierung)      |        |       |           | (👨‍🚒)   | 👨‍🏫    |         | 22.01.2026<br>ca. **7h**  |
-|                                      | C# ("C Sharp")                                         |        |       | (👨‍🚒)      | 👨‍🏫     |       | (👨‍🚒)    | 23.01.2026<br>ca. **6h**  |
-|                                      |                                                        |        |       |           |        |        |        | --------<br>ca. **32h**    |
+|                                      | PowerShell- und Shell-Scripting (Automatisierung)      |        |       |           | (👨‍🚒)   | 👨‍🏫    |        | 22.01.2026<br>ca. **7h**    |
+|                                      | C# ("C Sharp")                                         |        |       | (👨‍🚒)      | 👨‍🏫     |       | (👨‍🚒)   | 23.01.2026<br>ca. **6h**   |
+|                                      |                                                        |        |       |           |        |       |         | --------<br>ca. **32h**    |
 
 ### Tagesagenda
 

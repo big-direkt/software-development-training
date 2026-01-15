@@ -30,7 +30,7 @@
 #### 3.2 Wie funktioniert Git
 
 - [einfaches Schaubild](./git-idea.md)
-- [Git Cheat-Sheet](https://bytebytego.com/guides/git-commands-cheat-sheet/)
+- [Git general Cheat-Sheet](https://bytebytego.com/guides/git-commands-cheat-sheet/)
 
 <br>
 
@@ -65,6 +65,8 @@ git config --global --list
 <br>
 
 ## 5. Praxis: Git basics (lokal)
+
+- [Git command Cheat-Sheet](https://cheatsheets.zip/git)
 
 #### 5.1 Eigenes Repo erstellen
 
@@ -153,6 +155,8 @@ git remote add upstream https://github.com/big-direkt/software-development-train
 
 #### 6.4 Mit Branches arbeiten
 
+[Git branches Cheat-Sheet](https://devhints.io/git-branch)
+
 Nun muss, da auf den allermeisten Repositories eine branch policy liegt, die verhindert das man von "main" auf "main" push kann, über einen extra Zweig (branch) gegangen werden. Von diesem aus kann man dann den PR erstellen.
 
 ``` bash
@@ -226,7 +230,7 @@ git branch -a
 #### 8.2 Stash
 
 - git stash, git stash pop erläutern
-  - siehe Cheat-Sheet und 🎬 [stash](https://www.youtube.com/watch?v=lH3ZkwbVp5E&t=23s)
+  - siehe Cheat-Sheet und folgendes 🎬 [stash](https://www.youtube.com/watch?v=lH3ZkwbVp5E&t=23s) Video
 - praktisches Beispiel zeigen
 
 #### 8.3 git diff (git graph)
