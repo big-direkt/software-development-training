@@ -162,6 +162,7 @@
 - keine Secrets in Repos
 - Einsatz von Secrets Management der Plattformen
 - oder Einsatz von Vaults
+- Breaking changes in Software und Services (Updates mit Vorsicht)
 
 #### Einsatz von KI
 
@@ -195,7 +196,17 @@
 
 <br>
 
-### 5. Empfohlenes Tooling (lohnt sich zu kennen (zu lernen))
+### 5. Weiteres Themen im Zusammenhang mit dem obigen
+
+- CVEs kennen
+  - [BSI](https://wid.cert-bund.de/portal/wid/kurzinformationen) (Bundesamt für Sicherheit in der Informationstechnik)
+  - [Bleeping Computer](https://www.bleepingcomputer.com/tag/vulnerability/)
+- Infrastructure as Code ([Terraform](https://developer.hashicorp.com/terraform))
+- Tool maintanence (community-driven vs. company backed)
+
+<br>
+
+### 6. 🛠️  Empfohlenes Tooling (lohnt sich zu kennen (zu lernen))
 
 | Kategorie | Tool |
 | --- | --- |
@@ -212,9 +223,11 @@
 
 <br>
 
-### 6. Weiteres
+### 7. 🎬 Empfohlene Lernplattformen
 
-- Breaking changes (Updates mit Vorsicht)
-- CVEs kennen
-- Infrastructure as Code
-- Tool maintanence (community-driven vs. company backed)
+- [Pluralsight](https://www.pluralsight.com)
+  - Hochwertige Tutorials
+  - von zertifizierten Experten
+- [Udemy](https://www.udemy.com)
+  - auch gut
+  - eher weniger zertifizierte Experten
