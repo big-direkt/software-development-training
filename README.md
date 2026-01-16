@@ -55,7 +55,7 @@ Dieses Repository dient der Azubi-Ausbildung für den Lehrplanteilbereich Softwa
 |                                      | [Git Idee]                                             |        |       |           |        |       |         |                            |
 |                                      | [GitHub], [(Exkurs Markdown)]                          |        |       |           |        |       |         |                            |
 |                                      | [Git Praxis Teil1], [Git Praxis Teil2]                 |        |       |           |        |       |         |                            |
-| 🔗&nbsp;[Softwareökosystem]          |                                                        |        | 👨‍🏫   | (👨‍🚒)      |        |       | (👨‍🚒)    | 16.01.2026<br>ca. **5h**   |
+| 🔗&nbsp;[Software Ecosystem]         |                                                        |        | 👨‍🏫   | (👨‍🚒)      |        |       | (👨‍🚒)    | 16.01.2026<br>ca. **5h**   |
 |                                      | [Definition und Zusammenhänge (Beispiele)]             |        |       |           |        |       |         |                            |
 |                                      | [Aufgaben im Software Ecosystem], [Herausforderungen]  |        |       |           |        |       |         |                            |
 |                                      | [Einzelthemen]                                         |        |       |           |        |       |         |                            |
@@ -64,7 +64,7 @@ Dieses Repository dient der Azubi-Ausbildung für den Lehrplanteilbereich Softwa
 |                                      | [Lizenzen & Compliance (Open Source != Free)]          |        |       |           |        |       |         |                            |
 |                                      | [Einsatz von KI (LLMs)]                                |        |       |           |        |       |         |                            |
 |                                      | [Empfohlenes Tooling]                                  |        |       |           |        |       |         |                            |
-| 🌐&nbsp;[Sprachen & Anwendungsfälle]  |                                                        |        |       |           |        |       |         | | ca. **13h**              |
+| 🎮&nbsp;[Sprachen & Anwendungsfälle] |                                                        |        |       |           |        |       |         | | ca. **13h**              |
 |                                      | PowerShell- und Shell-Scripting (Automatisierung)      |        |       |           | (👨‍🚒)   | 👨‍🏫    |        | 22.01.2026<br>ca. **7h**    |
 |                                      | C# ("C Sharp")                                         |        |       | (👨‍🚒)      | 👨‍🏫     |       | (👨‍🚒)   | 23.01.2026<br>ca. **6h**   |
 |                                      |                                                        |        |       |           |        |       |         | --------<br>ca. **32h**    |
@@ -139,7 +139,7 @@ Veröffentlicht unter der MIT-Lizenz. Siehe [LICENSE] für weitere Informationen
   [(Exkurs Markdown)]:                            ./docs/version-control/markdown.md
   [Git Praxis Teil1]:                             ./docs/version-control/version-control.md#5-praxis-git-basics-lokal
   [Git Praxis Teil2]:                             ./docs/version-control/version-control.md#6-praxis-git--und-github-basics-forks-und-branches
-[Softwareökosystem]:                              ./docs/software-ecosystem/software-ecosystem.md
+[Software Ecosystem]:                             ./docs/software-ecosystem/software-ecosystem.md
   [Definition und Zusammenhänge (Beispiele)]:     ./docs/software-ecosystem/software-ecosystem.md#1--was-ist-ein-software-ecosystem---kontext
   [Aufgaben im Software Ecosystem]:               ./docs/software-ecosystem/software-ecosystem.md#2--konkrete-aufgaben-im-software-ecosystem
   [Herausforderungen]:                            ./docs/software-ecosystem/software-ecosystem.md#3-️-mögliche-problemstellungen-im-kontext-adminssystemintegration
