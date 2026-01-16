@@ -56,12 +56,14 @@ Dieses Repository dient der Azubi-Ausbildung für den Lehrplanteilbereich Softwa
 |                                      | [GitHub], [(Exkurs Markdown)]                          |        |       |           |        |       |         |                            |
 |                                      | [Git Praxis Teil1], [Git Praxis Teil2]                 |        |       |           |        |       |         |                            |
 | 🔗&nbsp;[Softwareökosystem]          |                                                        |        | 👨‍🏫   | (👨‍🚒)      |        |       | (👨‍🚒)    | 16.01.2026<br>ca. **5h**   |
-|                                      | GitHub/GitLab als Plattformen                          |        |       |           |        |       |         |                            |
-|                                      | Framework-Dokumentationen und Referenzen               |        |       |           |        |       |         |                            |
-|                                      | Lizenzen (Open Source != Free)                         |        |       |           |        |       |         |                            |
-|                                      | Laufzeitumgebungen (Node.js, .NET CLR, JVM)            |        |       |           |        |       |         |                            |
-|                                      | APIs/Schnittstellen                                    |        |       |           |        |       |         |                            |
-|                                      | Einsatz von KI (als Unterstützung, kein vibe coding)   |        |       |           |        |       |         |                            |
+|                                      | [Definition und Zusammenhänge (Beispiele)]             |        |       |           |        |       |         |                            |
+|                                      | [Aufgaben im Software Ecosystem], [Herausforderungen]  |        |       |           |        |       |         |                            |
+|                                      | [Einzelthemen]                                         |        |       |           |        |       |         |                            |
+|                                      | [Dokumentationen und Referenzen]                       |        |       |           |        |       |         |                            |
+|                                      | [APIs/Schnittstellen]                                  |        |       |           |        |       |         |                            |
+|                                      | [Lizenzen & Compliance (Open Source != Free)]          |        |       |           |        |       |         |                            |
+|                                      | [Einsatz von KI (LLMs)]                                |        |       |           |        |       |         |                            |
+|                                      | [Empfohlenes Tooling]                                  |        |       |           |        |       |         |                            |
 | 🌐&nbsp;[Sprachen & Anwendungsfälle]  |                                                        |        |       |           |        |       |         | | ca. **13h**              |
 |                                      | PowerShell- und Shell-Scripting (Automatisierung)      |        |       |           | (👨‍🚒)   | 👨‍🏫    |        | 22.01.2026<br>ca. **7h**    |
 |                                      | C# ("C Sharp")                                         |        |       | (👨‍🚒)      | 👨‍🏫     |       | (👨‍🚒)   | 23.01.2026<br>ca. **6h**   |
@@ -117,38 +119,47 @@ Veröffentlicht unter der MIT-Lizenz. Siehe [LICENSE] für weitere Informationen
 
 [To the top](#top)
 
-[Kick-off]:                         ./docs/basics/kick-off.md
-[Kennenlernen]:                     ./src/welcome/
-[Grundlagen]:                       ./docs/basics/basics.md
-  [Gängige Programmiersprachen]:    ./docs/basics/basics.md#1-gängige-programmiersprachen
-  [Programmierparadigmen]:          ./docs/basics/basics.md#2-programmierparadigmen
-  [IDEs & Entwicklungsumgebungen]:  ./docs/basics/basics.md#3-ides--entwicklungsumgebungen
-  [Hello World]:                    ./docs/basics/basics.md#4-hello-world
-  [Variablen & Datentypen]:         ./docs/basics/basics.md#5-variablen--datentypen
-  [Operatoren]:                     ./docs/basics/basics.md#6-operatoren
-  [Bedingungen]:                    ./docs/basics/basics.md#7-bedingungen
-  [Schleifen]:                      ./docs/basics/basics.md#8-schleifen
-  [Algorithmen]:                    ./docs/basics/basics.md#9-algorithmen
-  [Datenbanken und SQL]:            ./docs/basics/basics.md#10-datenbanken--kurzer-exkurs-in-sql-und-sql-management-studio
-  [Frontend & Backend]:             ./docs/basics/basics.md#11-frontend-und-backend--zusammenhang
-[Versionskontrolle]:                ./docs/version-control/version-control.md
-  [Git Idee]:                       ./docs/version-control/git-idea.md
-  [GitHub]:                         ./docs/version-control/github.md
-  [(Exkurs Markdown)]:              ./docs/version-control/markdown.md
-  [Git Praxis Teil1]:               ./docs/version-control/version-control.md#5-praxis-git-basics-lokal
-  [Git Praxis Teil2]:               ./docs/version-control/version-control.md#6-praxis-git--und-github-basics-forks-und-branches
-[Softwareökosystem]:                ./docs/software-ecosystem/software-ecosystem.md
-[Sprachen & Anwendungsfälle]:       ./docs/languages-use-cases/languages-use-cases.md
+[Kick-off]:                                       ./docs/basics/kick-off.md
+[Kennenlernen]:                                   ./src/welcome/
+[Grundlagen]:                                     ./docs/basics/basics.md
+  [Gängige Programmiersprachen]:                  ./docs/basics/basics.md#1-gängige-programmiersprachen
+  [Programmierparadigmen]:                        ./docs/basics/basics.md#2-programmierparadigmen
+  [IDEs & Entwicklungsumgebungen]:                ./docs/basics/basics.md#3-ides--entwicklungsumgebungen
+  [Hello World]:                                  ./docs/basics/basics.md#4-hello-world
+  [Variablen & Datentypen]:                       ./docs/basics/basics.md#5-variablen--datentypen
+  [Operatoren]:                                   ./docs/basics/basics.md#6-operatoren
+  [Bedingungen]:                                  ./docs/basics/basics.md#7-bedingungen
+  [Schleifen]:                                    ./docs/basics/basics.md#8-schleifen
+  [Algorithmen]:                                  ./docs/basics/basics.md#9-algorithmen
+  [Datenbanken und SQL]:                          ./docs/basics/basics.md#10-datenbanken--kurzer-exkurs-in-sql-und-sql-management-studio
+  [Frontend & Backend]:                           ./docs/basics/basics.md#11-frontend-und-backend--zusammenhang
+[Versionskontrolle]:                              ./docs/version-control/version-control.md
+  [Git Idee]:                                     ./docs/version-control/git-idea.md
+  [GitHub]:                                       ./docs/version-control/github.md
+  [(Exkurs Markdown)]:                            ./docs/version-control/markdown.md
+  [Git Praxis Teil1]:                             ./docs/version-control/version-control.md#5-praxis-git-basics-lokal
+  [Git Praxis Teil2]:                             ./docs/version-control/version-control.md#6-praxis-git--und-github-basics-forks-und-branches
+[Softwareökosystem]:                              ./docs/software-ecosystem/software-ecosystem.md
+  [Definition und Zusammenhänge (Beispiele)]:     ./docs/software-ecosystem/software-ecosystem.md#1--was-ist-ein-software-ecosystem---kontext
+  [Aufgaben im Software Ecosystem]:               ./docs/software-ecosystem/software-ecosystem.md#2--konkrete-aufgaben-im-software-ecosystem
+  [Herausforderungen]:                            ./docs/software-ecosystem/software-ecosystem.md#3-️-mögliche-problemstellungen-im-kontext-adminssystemintegration
+  [Einzelthemen]:                                 ./docs/software-ecosystem/software-ecosystem.md#4--themen-zum-stöbern
+  [Dokumentationen und Referenzen]:               ./docs/software-ecosystem/software-ecosystem.md#4--themen-zum-stöbern
+  [APIs/Schnittstellen]:                          ./docs/software-ecosystem/software-ecosystem.md#4--themen-zum-stöbern
+  [Lizenzen & Compliance (Open Source != Free)]:  ./docs/software-ecosystem/software-ecosystem.md#4--themen-zum-stöbern
+  [Einsatz von KI (LLMs)]:                        ./docs/software-ecosystem/software-ecosystem.md#5--einsatz-von-ki-llms
+  [Empfohlenes Tooling]:                          ./docs/software-ecosystem/software-ecosystem.md#7-️-empfohlenes-tooling-lohnt-sich-zu-kennen-bzw-zu-lernen
+[Sprachen & Anwendungsfälle]:                     ./docs/languages-use-cases/languages-use-cases.md
 
-[Git]:                              https://git-scm.com/install/windows
-[Visual Studio Community Edition]:  https://visualstudio.microsoft.com/de/vs/community/
-[VSCode]:                           https://code.visualstudio.com/Download
+[Git]:                                            https://git-scm.com/install/windows
+[Visual Studio Community Edition]:                https://visualstudio.microsoft.com/de/vs/community/
+[VSCode]:                                         https://code.visualstudio.com/Download
 
-[Playground]:                       ./src/playground/
-[LICENSE]:                          ./LICENSE.md
+[Playground]:                                     ./src/playground/
+[LICENSE]:                                        ./LICENSE.md
 
-[Tag 1]:                            ./docs/daily-plan/day-1.md
-[Tag 2]:                            ./docs/daily-plan/day-2.md
-[Tag 3]:                            ./docs/daily-plan/day-3.md
-[Tag 4]:                            ./docs/daily-plan/day-4.md
-[Tag 5]:                            ./docs/daily-plan/day-5.md
+[Tag 1]:                                          ./docs/daily-plan/day-1.md
+[Tag 2]:                                          ./docs/daily-plan/day-2.md
+[Tag 3]:                                          ./docs/daily-plan/day-3.md
+[Tag 4]:                                          ./docs/daily-plan/day-4.md
+[Tag 5]:                                          ./docs/daily-plan/day-5.md
