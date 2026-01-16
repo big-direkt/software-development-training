@@ -151,7 +151,7 @@
 
 > Rechtliche Grenzen beim Verwenden von Komponenten.
 
-- Grundtypen: Permissive (MIT, Apache 2.0) vs Copyleft (GPL)
+- [Grundtypen](https://choosealicense.com/licenses/): Permissive (MIT, Apache 2.0) vs Copyleft (GPL)
 - Pflichten, kommerzielle Nutzung
 - Lizenzkompatibilität, Abhängigkeiten prüfen
 
@@ -168,17 +168,19 @@
 
 > Werkzeuge, Chancen & Grenzen.
 
+- Spezifikationsgetriebene Prompts [Spec Driven Promt Engineering](https://www.augmentcode.com/guides/spec-driven-prompt-engineering-for-developers)
 - Unterstützung bei Code, Tests, Doku
 - Grenzen, Datenschutz, Lizenzfragen
 - Assistierend und kein "Vibe Coding"
+- [n8n](https://n8n.io)
 
 #### Observability
 
 > Nachhaltigkeit und Analyse.
 
-- Monitoring, Logging
-- Metrics
-- Tracing
+- Logging, Monitoring, Alerting
+- Metriken aufstellen, aber dem Ecosystem Kontext angepasst
+- Tracing über Systemgrenzen hinweg
 
 #### Dependency Management
 
@@ -186,6 +188,7 @@
 
 - Package-Ecosystem
 - Supply-chain risk
+- [SBOM](https://about.gitlab.com/de-de/blog/the-ultimate-guide-to-sboms/#was-ist-eine-software-bill-of-materials) (Software Bill of Materials)
 
 #### Testing & Quality
 
@@ -198,7 +201,7 @@
 
 ### 5. Weiteres Themen im Zusammenhang mit dem obigen
 
-- CVEs (CVE: Common Vulnerabilities and Exposures) kennen
+- CVEs (Common Vulnerabilities and Exposures) kennen
   - [BSI](https://wid.cert-bund.de/portal/wid/kurzinformationen) (Bundesamt für Sicherheit in der Informationstechnik)
   - [Bleeping Computer](https://www.bleepingcomputer.com/tag/vulnerability/)
 - Infrastructure as Code ([Terraform](https://developer.hashicorp.com/terraform))
