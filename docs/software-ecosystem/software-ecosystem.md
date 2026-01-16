@@ -1,8 +1,3 @@
-==> https://chatgpt.com/c/69691773-71c4-832b-a99d-7966b507000f
-==> https://chatgpt.com/share/696951ad-24d0-8011-9836-c755acdb4702
-
-
-
 ## Software Ecosystem (Software Ökosystem)
 
 ### 1. Was ist ein Software Ecosystem? - Kontext
