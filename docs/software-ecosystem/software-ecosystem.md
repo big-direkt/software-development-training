@@ -1,6 +1,6 @@
 ## Software Ecosystem (Software Ökosystem)
 
-### 1. Was ist ein Software Ecosystem? - Kontext
+### 1. 💡 Was ist ein Software Ecosystem? - Kontext
 
 > [!NOTE]
 > Allgemein:<br>Ist ein Verbund aus Softwarekomponenten, Akteuren und Organisationen, welche über gemeinsame technische Plattformen, Schnittstellen und Geschäftsmodelle miteinander interagieren und sich gemeinsam weiterentwickeln.
@@ -85,7 +85,7 @@
 
 <br>
 
-### 2. Konkrete Aufgaben im Software Ecosystem
+### 2. 🚀 Konkrete Aufgaben im Software Ecosystem
 
 | Aufgabe                  | Bezug zum Ecosystem                    |
 | ---:                     | ---                                    |
@@ -98,7 +98,7 @@
 
 <br>
 
-### 3. Mögliche Problemstellungen im Kontext Admins/Systemintegration
+### 3. ⚠️ Mögliche Problemstellungen im Kontext Admins/Systemintegration
 
 - Update eines Systems bricht Integration mit anderen
 - Cloud-Dienst ändert API oder Lizenzmodell
@@ -106,11 +106,11 @@
 - Hersteller stellt Support ein
 - Unterschiedliche Release-Zyklen kollidieren
 
-💡 Hier ist Wissenaustausch (Verständnis) essenziell
+==> Hier ist Wissenaustausch (Verständnis) essenziell
 
 <br>
 
-### 4. Themen zum Stöbern
+### 4. 📚 Themen zum Stöbern
 
 #### GitHub/GitLab (Plattformen & Kollaboration)
 
@@ -126,7 +126,7 @@
 > Wie man Wissen findet.
 
 - Offizielle Docs, API-Referenzen, Getting Started
-- Release Notes, Changelogs, Semantic Versioning
+- [Release Notes](https://developer.chrome.com/release-notes), [Changelog](https://github.com/sven-seyfert/autoit-webdriver-boilerplate/blob/main/CHANGELOG.md), Semantic Versioning
 - Community-Ressourcen (Stack Overflow, RFCs)
 - Effektives Suchen & Lesen von Beispielen
 
@@ -136,14 +136,14 @@
 
 - REST, GraphQL, gRPC
 - Authentifizierung (API-Key, OAuth2, JWT)
-- OpenAPI (Swagger), Postman
+- [OpenAPI (Swagger)](https://petstore.swagger.io/?_gl=1*nfvysa*_gcl_au*MTQ0OTU0MTExNi4xNzY4NTY4MTI5), Postman
 - Versionierung & Backward Compatibility
 
 #### Laufzeitumgebungen & Paketmanagement
 
 > Ausführen & Abhängigkeiten.
 
-- Node.js, .NET CLR, JVM (OpenJDK)
+- [Node.js (npm, modules)](https://www.ionos.de/digitalguide/websites/web-entwicklung/einfuehrung-in-nodejs/#content-modulstruktur-und-npm), .NET CLR, JVM (OpenJDK)
 - Paketmanager & Versionsmanager
 - Containerisierung (Docker) & Deployment-Grundlagen
 
@@ -164,22 +164,15 @@
 - oder Einsatz von Vaults
 - Breaking changes in Software und Services (Updates mit Vorsicht)
 
-#### Einsatz von KI
-
-> Werkzeuge, Chancen & Grenzen.
-
-- Spezifikationsgetriebene Prompts [Spec Driven Promt Engineering](https://www.augmentcode.com/guides/spec-driven-prompt-engineering-for-developers)
-- Unterstützung bei Code, Tests, Doku
-- Grenzen, Datenschutz, Lizenzfragen
-- Assistierend und kein "Vibe Coding"
-- [n8n](https://n8n.io)
-
 #### Observability
 
 > Nachhaltigkeit und Analyse.
 
 - Logging, Monitoring, Alerting
+  - Grafana, Prometheus, ELK Stack
 - Metriken aufstellen, aber dem Ecosystem Kontext angepasst
+  - Verfügbarkeitsmetriken
+  - Performance-Metriken
 - Tracing über Systemgrenzen hinweg
 
 #### Dependency Management
@@ -199,17 +192,33 @@
 
 <br>
 
-### 5. Weiteres Themen im Zusammenhang mit dem obigen
+### 5. 🤖 Einsatz von KI (LLMs, Modelln)
+
+> Werkzeuge, Chancen & Grenzen.
+
+- Use Cases (Einsatzgebiete)
+- Unterstützung bei Code, Tests, Doku
+- Spezifikationsgetriebene Prompts [(Spec Driven Prompt Engineering)](https://www.augmentcode.com/guides/spec-driven-prompt-engineering-for-developers)
+- Grenzen, Datenschutz, Lizenzfragen
+- Assistierend und kein "Vibe Coding"
+- [n8n](https://n8n.io)
+
+> [!WARNING]
+> Generell: Skeptische Haltung gegenüber KI um jeden Preis und überall, jedoch genügend Offenheit um die Entwicklung zu beobachten und ggf. zu adaptieren.
+
+<br>
+
+### 6. 🔍 Weitere Themen im Zusammenhang mit dem obigen
 
 - CVEs (Common Vulnerabilities and Exposures) kennen
   - [BSI](https://wid.cert-bund.de/portal/wid/kurzinformationen) (Bundesamt für Sicherheit in der Informationstechnik)
   - [Bleeping Computer](https://www.bleepingcomputer.com/tag/vulnerability/)
 - Infrastructure as Code ([Terraform](https://developer.hashicorp.com/terraform))
-- Tool maintanence (community-driven vs. company backed)
+- Tool maintenance (community-driven vs. company backed)
 
 <br>
 
-### 6. 🛠️  Empfohlenes Tooling (lohnt sich zu kennen (zu lernen))
+### 7. 🛠️ Empfohlenes Tooling (lohnt sich zu kennen bzw. zu lernen)
 
 | Kategorie | Tool |
 | --- | --- |
@@ -218,15 +227,12 @@
 | Diagramme | [Mermaid](https://mermaid.js.org/syntax/sequenceDiagram.html#actor-creation-and-destruction-v10-3-0) |
 | Dokumentation | [Markdown](https://www.markdownguide.org/getting-started/) |
 | JSON | [jq](https://jqlang.org/tutorial/) |
-| Recherche | KI ([Claude](https://code.claude.com/docs), [GitHub Copilot](https://github.com/features/copilot)) |
+| Recherche, coding support | KI ([Claude](https://code.claude.com/docs), [GitHub Copilot](https://github.com/features/copilot)) |
 | Versionierung | [Semantic Versioning](https://semver.org/spec/v2.0.0.html) |
-| | |
-| | |
-| | |
 
 <br>
 
-### 7. 🎬 Empfohlene Lernplattformen
+### 8. 🎬 Empfohlene Lernplattformen
 
 - [Pluralsight](https://www.pluralsight.com)
   - Hochwertige Tutorials
