@@ -13,6 +13,8 @@
 > Ziel (im Kontext von A&S):<br>
 > Das Ecosystem stabil, sicher und wartbar zu betreiben und weiterzuentwickeln.
 
+<br>
+
 #### Beispiel 1: Microsoft Ecosystem
 
 - Bestandteile:
@@ -24,6 +26,8 @@
   - Hybrid-Betrieb (On-Prem + Cloud)
   - Updates & Kompatibilität sicherstellen
 - Kontext: Abhängigkeiten zwischen Microsoft-Diensten
+
+<br>
 
 #### Beispiel 2: Linux / Open-Source Ecosystem
 
@@ -37,6 +41,8 @@
   - Umgang mit Community-Support
 - Kontext: Nachhaltigkeit & Security im OSS-Ecosystem
 
+<br>
+
 #### Beispiel 3: Virtualisierungs- & Container-Ecosystem
 
 - Bestandteile:
@@ -49,6 +55,8 @@
   - Performance- und Ressourcenmanagement
 - Kontext: Koexistenz mehrerer Plattformen
 
+<br>
+
 #### Beispiel 4: Cloud Ecosystem (AWS/Azure)
 
 - Bestandteile:
@@ -60,6 +68,8 @@
   - Kostenkontrolle (FinOps)
   - Sicherheit über mehrere Anbieter
 - Kontext: Vendor Lock-in & Multi-Cloud
+
+<br>
 
 #### Beispiel 5: Security Ecosystem
 
