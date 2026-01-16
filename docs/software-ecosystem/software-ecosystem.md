@@ -192,7 +192,7 @@
 
 <br>
 
-### 5. 🤖 Einsatz von KI (LLMs, Modelln)
+### 5. 🤖 Einsatz von KI (LLMs)
 
 > Werkzeuge, Chancen & Grenzen.
 
