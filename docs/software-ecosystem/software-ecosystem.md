@@ -198,7 +198,7 @@
 
 ### 5. Weiteres Themen im Zusammenhang mit dem obigen
 
-- CVEs kennen
+- CVEs (CVE: Common Vulnerabilities and Exposures) kennen
   - [BSI](https://wid.cert-bund.de/portal/wid/kurzinformationen) (Bundesamt für Sicherheit in der Informationstechnik)
   - [Bleeping Computer](https://www.bleepingcomputer.com/tag/vulnerability/)
 - Infrastructure as Code ([Terraform](https://developer.hashicorp.com/terraform))
