@@ -1,0 +1,29 @@
+Führe Umgebung_2.bat aus, dies erstellt das Aufgabenverzeichnis.
+
+1.) Wechsle in den Ordner "C:\temp\schulung\aufgabe_2"
+
+2.) Liste alle Dateien in den Ordnern "ordner1" bis "ordner10" 
+    sowie in deren Unterordnern auf.
+    (Zeige nur die Dateinamen, keine Ordner)
+
+3.) Verschiebe alle Textdateien (.txt) aus den Ordnern "ordner1" bis
+    "ordner10" in den Ordner "ziel1".
+
+4.) Verschiebe alle Word-Dateien (.docx) aus den Ordnern "ordner1" bis
+    "ordner10" in den Ordner "ziel2".
+
+5.) Zähle, wie viele Dateien sich danach in "ziel1" befinden.
+
+6.) Zähle, wie viele Dateien sich danach in "ziel2" befinden.
+
+7.) Kopiere die Ordner "ziel1" und "ziel2" inklusive ihres Inhalts
+    in den Ordner "alle".
+
+
+Hinweise:
+
+Verwende Get-ChildItem
+Nutze -Recurse
+Filtere nach Dateien
+Verwende Move-Item
+Verwende Copy-Item

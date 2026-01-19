@@ -1,0 +1,26 @@
+Führe Umgebung_3.bat aus, dies erstellt das Aufgabenverzeichnis.
+
+1.) Wechsle in den Ordner "C:\temp\schulung\aufgabe_3"
+
+2.) Liste alle Dateien in diesem Ordner und in allen Unterordnern auf.
+    (Zeige nur die Dateinamen, keine Ordner)
+
+3.) Prüfe alle Unterordner unterhalb von "daten":
+    - Sind Ordner leer, verschiebe sie in den Ordner "leer".
+
+4.) Verschiebe danach alle Dateien, die älter als 1 Jahr sind,
+    in den Ordner "archiv".
+
+5.) Zähle:
+    a) Wie viele Ordner sich im Ordner "leer" befinden.
+    b) Wie viele Dateien sich im Ordner "archiv" befinden.
+
+6.) Wurde alles archiviert? Wenn nein, warum?
+
+Hinweise:
+
+Verwende Get-ChildItem
+Nutze -Recurse
+Filtere nach Dateien und Ordnern
+Verwende Where-Object
+Verwende Move-Item

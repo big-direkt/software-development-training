@@ -1,0 +1,67 @@
+WICHTIGE BEFEHLE & CMDLETS – ÜBERSICHT (CMD & POWERSHELL)
+
+1.) ipconfig  
+     Zeigt die aktuelle Netzwerkkonfiguration eines Systems an (IP-Adresse, Gateway, DNS).
+
+2.) Test-NetConnection  
+     Prüft Netzwerkverbindungen inklusive Erreichbarkeit von Hosts und offenen Ports.
+
+3.) Get-ChildItem  
+     Listet Dateien und Ordner in einem Verzeichnis auf.
+
+4.) Set-Location  
+     Wechselt das aktuelle Arbeitsverzeichnis.
+
+5.) Copy-Item  
+     Kopiert Dateien oder Ordner.
+
+6.) Move-Item  
+     Verschiebt Dateien oder Ordner.
+
+7.) Remove-Item  
+     Löscht Dateien oder Ordner.
+
+8.) Get-Help  
+     Zeigt die Hilfe zu PowerShell-Cmdlets an.
+
+9.) Get-Command  
+     Listet verfügbare Cmdlets und Befehle auf.
+
+10.) Where-Object  
+      Filtert Objekte nach bestimmten Bedingungen.
+
+
+11.) netstat  
+      Zeigt aktive Netzwerkverbindungen, offene Ports und zugehörige Prozesse an.
+
+12.) tasklist  
+      Listet alle aktuell laufenden Prozesse auf.
+
+13.) taskkill  
+      Beendet laufende Prozesse gezielt per Name oder Prozess-ID.
+
+14.) whoami  
+      Zeigt den aktuell angemeldeten Benutzer und dessen Sicherheitskontext an.
+
+15.) systeminfo  
+      Liefert detaillierte Informationen zum Betriebssystem und zur Hardware.
+
+16.) Get-Process  
+      Zeigt laufende Prozesse und deren Ressourcennutzung an.
+
+17.) Stop-Process  
+      Beendet Prozesse über PowerShell.
+
+18.) Get-Service  
+      Listet Windows-Dienste und deren aktuellen Status auf.
+
+19.) Restart-Service  
+      Startet Windows-Dienste neu.
+
+20.) Get-EventLog  
+      Liest Einträge aus den Windows-Ereignisprotokollen.
+
+
+Hinweis:
+Die Befehle stammen aus dem administrativen Alltag und werden häufig
+zur Analyse, Fehlerbehebung und Automatisierung verwendet.

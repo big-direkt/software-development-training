@@ -1,0 +1,27 @@
+Teil A – Anfänger
+
+1.) Was ist ein Ping und wofür wird er verwendet?
+Ein Ping prüft, ob ein Netzwerkgerät erreichbar ist und wie schnell es antwortet.
+
+2.) Was bedeutet es, wenn ein Ping keine Antwort erhält? (2 Beispiele)
+Das Ziel ist nicht erreichbar, z. B. wegen Netzwerkproblemen oder weil ICMP blockiert wird.
+
+3.) Was macht das PowerShell-Cmdlet Get-Help und warum ist es wichtig?
+Get-Help zeigt die Hilfe zu Cmdlets an und erklärt deren Nutzung und Parameter.
+
+4.) Worin liegt der Unterschied zwischen Get-Command und Get-Help?
+Get-Command findet Cmdlets, während Get-Help erklärt, wie man sie benutzt.
+
+Teil B – Fortgeschrittene
+
+1.) Was ist eine Pipeline in PowerShell und warum ist sie so mächtig?
+Eine Pipeline übergibt Objekte von einem Cmdlet an das nächste zur Weiterverarbeitung.
+
+2.) Erkläre den Unterschied zwischen Where-Object und Select-Object.
+Where-Object filtert Objekte, Select-Object wählt Eigenschaften aus oder formatiert sie.
+
+3.) Warum ist Get-ChildItem eines der wichtigsten Cmdlets in PowerShell?
+Get-ChildItem listet Dateien und Ordner auf und ist die Basis für viele Dateioperationen.
+
+4.) Ist PowerShell nur zum schnellen Lösen von Problemen oder auch zur Automatisierung? (1 Beispiel)
+PowerShell eignet sich auch zur Automatisierung, z. B. für tägliche Backup- oder Aufräumskripte z.b. über die Windows-Aufgabenplanung.

@@ -1,0 +1,20 @@
+@echo off
+set "BASE=C:\temp"
+
+mkdir "%BASE%\schulung\aufgabe_1"
+type nul > "%BASE%\schulung\aufgabe_1\txt1.txt"
+type nul > "%BASE%\schulung\aufgabe_1\txt2.txt"
+type nul > "%BASE%\schulung\aufgabe_1\txt3.txt"
+type nul > "%BASE%\schulung\aufgabe_1\txt4.txt"
+type nul > "%BASE%\schulung\aufgabe_1\txt5.txt"
+type nul > "%BASE%\schulung\aufgabe_1\txt6.txt"
+type nul > "%BASE%\schulung\aufgabe_1\txt7.txt"
+type nul > "%BASE%\schulung\aufgabe_1\txt8.txt"
+type nul > "%BASE%\schulung\aufgabe_1\txt9.txt"
+type nul > "%BASE%\schulung\aufgabe_1\txt10.txt"
+
+mkdir "%BASE%\schulung\aufgabe_1\unterordner1"
+mkdir "%BASE%\schulung\aufgabe_1\unterordner2"
+type nul > "%BASE%\schulung\aufgabe_1\unterordner1\txt1.txt"
+type nul > "%BASE%\schulung\aufgabe_1\unterordner1\word1.docx"
+type nul > "%BASE%\schulung\aufgabe_1\unterordner2\txt1.txt"
